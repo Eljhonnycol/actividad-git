@@ -1,0 +1,5 @@
+- Git permite llevar control de versiones de proyectos.
+- GitHub es una plataforma para alojar repositorios Git.
+- Un commit guarda los cambios realizados.
+- Una rama permite trabajar en paralelo sin afectar el código principal.
+- El merge une los cambios de una rama con otra.
