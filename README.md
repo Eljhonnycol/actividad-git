@@ -7,3 +7,6 @@ Aprendiendo a usar GitHub: commits, ramas y merge.
 
 # Autor
 Jhonattan Saez Agamez
+
+# Cambios en rama desarrollo
+Se realizaron modificaciones en esta rama para practicar el flujo de trabajo con Git.
